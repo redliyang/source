@@ -1,4 +1,4 @@
-@echo
+@echo off
 @bat自动循环提交
 
 set path=%path%;C:\Program Files\Git\cmd
